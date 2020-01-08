@@ -34,6 +34,7 @@ Here's a list of the DXP Cloud regions currently available:
 * Frankfurt, Germany: `europe-west3`
 * São Paulo, Brazil: `southamerica-east1`
 * Sydney, Australia: `australia-southeast1`
+* Mumbai, India: `asia-south1`
 
 ![Figure 2: Your environments can be hosted in different locations.](./understanding-dxp-cloud-environments/images/02.png)
 
